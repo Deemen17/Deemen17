@@ -1,4 +1,12 @@
-### Hi there 👋
+### 
+
+My nickname is Minh Sắt or Deemen17
+AI student in FPT University
+Member of FU Street Workout
+Freelance Keyboard PCB Designer
+
+"You need to do what you're supposed to do!"
+~ Andrew Tate
 
 <!--
 **Deemen17/Deemen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
