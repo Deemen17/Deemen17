@@ -1,24 +1,11 @@
-### 
+### Welcome to Deemen17's world!
 
-My nickname is Minh Sắt or Deemen17
-AI student in FPT University
-Member of FU Street Workout
-Freelance Keyboard PCB Designer
+### Minh Sắt - Deemen17
+* AI student in FPT University
+* Member of FU Street Workout
+* Freelance Keyboard PCB Designer 
 
-"You need to do what you're supposed to do!"
-~ Andrew Tate
+## Come and see [my design portfolio](https://deemen17.notion.site/Deemen17-Design-Portfolio-0f1358e0a41f4873af24239fd44fcdc9)
 
-<!--
-**Deemen17/Deemen17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current quote:
+`You need to do what you're supposed to do!` ~ Andrew Tate
